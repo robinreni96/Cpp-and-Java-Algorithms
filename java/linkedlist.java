@@ -10,7 +10,7 @@ Print: LinkedList		[1][2]
 public class linkedlist
 {
   // Declaring a LinkedList as linklist
-  public static LinkedList linklist;
+ public static LinkedList linklist;
  public static void main(String args[])
  {
   // Allocating memory for the linkedlist
